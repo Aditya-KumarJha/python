@@ -54,3 +54,8 @@ htmlcov/
 
 # Python compiled files
 *.so
+
+# DB files
+*.db
+*.sqlite
+*.sqlite3
